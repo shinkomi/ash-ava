@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="jp">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="stylesheet" href="style.css" />
+  <title>アバター一覧</title>
+</head>
+<body>
+  <h1>アバター一覧</h1>
+  <div class="text-data">
+    更新履歴<br>
+    2025/04/28　図鑑から一覧を作成。<br>
+  </div>
+
+  <div class="textserch-container">
+    <!-- 文字列検索エリア -->
+    <div class="textserch">
+      <div class="serch-group">
+        <input id="textarea" type="text" name="name" size="40"></p>
+        <button onclick="textSerch('serch')">検索</button>
+        <button onclick="resetSerch()">クリア</button>
+    </div>
+  </div>
+
+  <h3>検索結果</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>男の子</th>
+        <th>女の子</th>
+      </tr>
+    </thead>
+    <tbody>
+    </tbody>
+  </table>
+  <!-- モーダル画面 -->
+  <div id="imageModal" class="modal">
+    <span class="close">&times;</span>
+    <img class="modal-content" id="modalImage">
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

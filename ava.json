@@ -1,0 +1,1819 @@
+[
+    {
+        "name_m": "ヒッキーくん",
+        "name_f": "ヒッキーちゃん",
+        "image_m": "Ava/M/ヒッキーくん.jpg",
+        "image_f": "Ava/F/ヒッキーちゃん.jpg"
+    },
+    {
+        "name_m": "未来を紡ぐ皇子",
+        "name_f": "未来を紡ぐ姫君",
+        "image_m": "Ava/M/未来を紡ぐ皇子.jpg",
+        "image_f": "Ava/F/未来を紡ぐ姫君.jpg"
+    },
+    {
+        "name_m": "シナモンパジャマ",
+        "name_f": "シナモンパジャマ",
+        "image_m": "Ava/M/シナモンパジャマ.jpg",
+        "image_f": "Ava/F/シナモンパジャマ.jpg"
+    },
+    {
+        "name_m": "おでかけシナモン",
+        "name_f": "おでかけシナモン",
+        "image_m": "Ava/M/おでかけシナモン.jpg",
+        "image_f": "Ava/F/おでかけシナモン.jpg"
+    },
+    {
+        "name_m": "シナモン学生服",
+        "name_f": "シナモンドレス",
+        "image_m": "Ava/M/シナモン学生服.jpg",
+        "image_f": "Ava/F/シナモンドレス.jpg"
+    },
+    {
+        "name_m": "ぷくぷくサンタ",
+        "name_f": "ぷくぷくサンタ",
+        "image_m": "Ava/M/ぷくぷくサンタ.jpg",
+        "image_f": "Ava/F/ぷくぷくサンタ.jpg"
+    },
+    {
+        "name_m": "ノソスサファラー",
+        "name_f": "ノソコモスナース",
+        "image_m": "Ava/M/ノソスサファラー.jpg",
+        "image_f": "Ava/F/ノソコモスナース.jpg"
+    },
+    {
+        "name_m": "星光のアイドル",
+        "name_f": "星光のアイドル",
+        "image_m": "Ava/M/星光のアイドル.jpg",
+        "image_f": "Ava/F/星光のアイドル.jpg"
+    },
+    {
+        "name_m": "緑黄色の湿原",
+        "name_f": "緑黄色の湿原",
+        "image_m": "Ava/M/緑黄色の湿原.jpg",
+        "image_f": "Ava/F/緑黄色の湿原.jpg"
+    },
+    {
+        "name_m": "モカバトラー",
+        "name_f": "モカメイド",
+        "image_m": "Ava/M/モカバトラー.jpg",
+        "image_f": "Ava/F/モカメイド.jpg"
+    },
+    {
+        "name_m": "巡天の二刀流",
+        "name_f": "巡天の二刀流",
+        "image_m": "Ava/M/巡天の二刀流.jpg",
+        "image_f": "Ava/F/巡天の二刀流.jpg"
+    },
+    {
+        "name_m": "カラフルポニー",
+        "name_f": "カラフルポニー",
+        "image_m": "Ava/M/カラフルポニー.jpg",
+        "image_f": "Ava/F/カラフルポニー.jpg"
+    },
+    {
+        "name_m": "カンケルの彼方",
+        "name_f": "カンケルの彼方",
+        "image_m": "Ava/M/カンケルの彼方.jpg",
+        "image_f": "Ava/F/カンケルの彼方.jpg"
+    },
+    {
+        "name_m": "陽光のスタヴロス",
+        "name_f": "陽光のスタヴロス",
+        "image_m": "Ava/M/陽光のスタヴロス.jpg",
+        "image_f": "Ava/F/陽光のスタヴロス.jpg"
+    },
+    {
+        "name_m": "夏の夜の二重唱",
+        "name_f": "夏の夜の二重唱",
+        "image_m": "Ava/M/夏の夜の二重唱.jpg",
+        "image_f": "Ava/F/夏の夜の二重唱.jpg"
+    },
+    {
+        "name_m": "秘色の王子様",
+        "name_f": "秘色のお姫様",
+        "image_m": "Ava/M/秘色の王子様.jpg",
+        "image_f": "Ava/F/秘色のお姫様.jpg"
+    },
+    {
+        "name_m": "貴族の風流",
+        "name_f": "貴族の風流",
+        "image_m": "Ava/M/貴族の風流.jpg",
+        "image_f": "Ava/F/貴族の風流.jpg"
+    },
+    {
+        "name_m": "メルヘンガイスト",
+        "name_f": "メルヘンガイスト",
+        "image_m": "Ava/M/メルヘンガイスト.jpg",
+        "image_f": "Ava/F/メルヘンガイスト.jpg"
+    },
+    {
+        "name_m": "ファーリーカクト",
+        "name_f": "ファーリーメーレ",
+        "image_m": "Ava/M/ファーリーカクト.jpg",
+        "image_f": "Ava/F/ファーリーメーレ.jpg"
+    },
+    {
+        "name_m": "レオーネパンク",
+        "name_f": "レオーネパンク",
+        "image_m": "Ava/M/レオーネパンク.jpg",
+        "image_f": "Ava/F/レオーネパンク.jpg"
+    },
+    {
+        "name_m": "オレンジ100%",
+        "name_f": "オレンジ100%",
+        "image_m": "Ava/M/オレンジ100.jpg",
+        "image_f": "Ava/F/オレンジ100.jpg"
+    },
+    {
+        "name_m": "トコナツハイビ",
+        "name_f": "トコナツフリル",
+        "image_m": "Ava/M/トコナツハイビ.jpg",
+        "image_f": "Ava/F/トコナツフリル.jpg"
+    },
+    {
+        "name_m": "スイートワッフル",
+        "name_f": "スイートワッフル",
+        "image_m": "Ava/M/スイートワッフル.jpg",
+        "image_f": "Ava/F/スイートワッフル.jpg"
+    },
+    {
+        "name_m": "マリンボヤージュ",
+        "name_f": "マリンドルチェ",
+        "image_m": "Ava/M/マリンボヤージュ.jpg",
+        "image_f": "Ava/F/マリンドルチェ.jpg"
+    },
+    {
+        "name_m": "スワンレイヤー",
+        "name_f": "ブラックスワン",
+        "image_m": "Ava/M/スワンレイヤー.jpg",
+        "image_f": "Ava/F/ブラックスワン.jpg"
+    },
+    {
+        "name_m": "忍びの陽炎",
+        "name_f": "忍びの飛泉",
+        "image_m": "Ava/M/忍びの陽炎.jpg",
+        "image_f": "Ava/F/忍びの飛泉.jpg"
+    },
+    {
+        "name_m": "ゲコゲココート",
+        "name_f": "ゲコゲココート",
+        "image_m": "Ava/M/ゲコゲココート.jpg",
+        "image_f": "Ava/F/ゲコゲココート.jpg"
+    },
+    {
+        "name_m": "星黄泉の少年",
+        "name_f": "星時雨の少女",
+        "image_m": "Ava/M/星黄泉の少年.jpg",
+        "image_f": "Ava/F/星時雨の少女.jpg"
+    },
+    {
+        "name_m": "百鬼の鬼神武者",
+        "name_f": "百鬼の絢爛妖狐",
+        "image_m": "Ava/M/百鬼の鬼神武者.jpg",
+        "image_f": "Ava/F/百鬼の絢爛妖狐.jpg"
+    },
+    {
+        "name_m": "スターリーベイ",
+        "name_f": "スターリーベイ",
+        "image_m": "Ava/M/スターリーベイ.jpg",
+        "image_f": "Ava/F/スターリーベイ.jpg"
+    },
+    {
+        "name_m": "狸の紋付袴",
+        "name_f": "狸の白無垢",
+        "image_m": "Ava/M/狸の紋付袴.jpg",
+        "image_f": "Ava/F/狸の白無垢.jpg"
+    },
+    {
+        "name_m": "ロイヤルヴィルゴ",
+        "name_f": "ロイヤルヴィルゴ",
+        "image_m": "Ava/M/ロイヤルヴィルゴ.jpg",
+        "image_f": "Ava/F/ロイヤルヴィルゴ.jpg"
+    },
+    {
+        "name_m": "アンクの金狼犬",
+        "name_f": "アンクの金狼犬",
+        "image_m": "Ava/M/アンクの金狼犬.jpg",
+        "image_f": "Ava/F/アンクの金狼犬.jpg"
+    },
+    {
+        "name_m": "サマーウェーブ",
+        "name_f": "サマーウェーブ",
+        "image_m": "Ava/M/サマーウェーブ.jpg",
+        "image_f": "Ava/F/サマーウェーブ.jpg"
+    },
+    {
+        "name_m": "雲の上の彩虹",
+        "name_f": "雲の上の彩虹",
+        "image_m": "Ava/M/雲の上の彩虹.jpg",
+        "image_f": "Ava/F/雲の上の彩虹.jpg"
+    },
+    {
+        "name_m": "ゼンマイペルチェ",
+        "name_f": "ゼンマイペルチェ",
+        "image_m": "Ava/M/ゼンマイペルチェ.jpg",
+        "image_f": "Ava/F/ゼンマイペルチェ.jpg"
+    },
+    {
+        "name_m": "デビルバット",
+        "name_f": "デビルバット",
+        "image_m": "Ava/M/デビルバット.jpg",
+        "image_f": "Ava/F/デビルバット.jpg"
+    },
+    {
+        "name_m": "幻想のアリエス",
+        "name_f": "幻想のアリエス",
+        "image_m": "Ava/M/幻想のアリエス.jpg",
+        "image_f": "Ava/F/幻想のアリエス.jpg"
+    },
+    {
+        "name_m": "ラビリンスの幽香",
+        "name_f": "ラビリンスの幽香",
+        "image_m": "Ava/M/ラビリンスの幽香.jpg",
+        "image_f": "Ava/F/ラビリンスの幽香.jpg"
+    },
+    {
+        "name_m": "春爛漫物語",
+        "name_f": "春爛漫物語",
+        "image_m": "Ava/M/春爛漫物語.jpg",
+        "image_f": "Ava/F/春爛漫物語.jpg"
+    },
+    {
+        "name_m": "ピーターマント",
+        "name_f": "ファンガスドレス",
+        "image_m": "Ava/M/ピーターマント.jpg",
+        "image_f": "Ava/F/ファンガスドレス.jpg"
+    },
+    {
+        "name_m": "ミツバチの花園",
+        "name_f": "ミツバチの花園",
+        "image_m": "Ava/M/ミツバチの花園.jpg",
+        "image_f": "Ava/F/ミツバチの花園.jpg"
+    },
+    {
+        "name_m": "桜歌の晴れ着物",
+        "name_f": "桜歌の晴れ着物",
+        "image_m": "Ava/M/桜歌の晴れ着物.jpg",
+        "image_f": "Ava/F/桜歌の晴れ着物.jpg"
+    },
+    {
+        "name_m": "英蘭の小夜啼鳥",
+        "name_f": "英蘭の小夜啼鳥",
+        "image_m": "Ava/M/英蘭の小夜啼鳥.jpg",
+        "image_f": "Ava/F/英蘭の小夜啼鳥.jpg"
+    },
+    {
+        "name_m": "シティトラベラー",
+        "name_f": "シティトラベラー",
+        "image_m": "Ava/M/シティトラベラー.jpg",
+        "image_f": "Ava/F/シティトラベラー.jpg"
+    },
+    {
+        "name_m": "ピスケスの境地",
+        "name_f": "ピスケスの境地",
+        "image_m": "Ava/M/ピスケスの境地.jpg",
+        "image_f": "Ava/F/ピスケスの境地.jpg"
+    },
+    {
+        "name_m": "スカイスター",
+        "name_f": "スカイスター",
+        "image_m": "Ava/M/スカイスター.jpg",
+        "image_f": "Ava/F/スカイスター.jpg"
+    },
+    {
+        "name_m": "精霊達の花吹雪",
+        "name_f": "精霊達の花吹雪",
+        "image_m": "Ava/M/精霊達の花吹雪.jpg",
+        "image_f": "Ava/F/精霊達の花吹雪.jpg"
+    },
+    {
+        "name_m": "くままべあべあ",
+        "name_f": "くままべあべあ",
+        "image_m": "Ava/M/くままべあべあ.jpg",
+        "image_f": "Ava/F/くままべあべあ.jpg"
+    },
+    {
+        "name_m": "ねこにゃんぶる一",
+        "name_f": "うさぴょんぴんく",
+        "image_m": "Ava/M/ねこにゃんぶる一.jpg",
+        "image_f": "Ava/F/うさぴょんぴんく.jpg"
+    },
+    {
+        "name_m": "ファレノムジカ",
+        "name_f": "ファレノムジカ",
+        "image_m": "Ava/M/ファレノムジカ.jpg",
+        "image_f": "Ava/F/ファレノムジカ.jpg"
+    },
+    {
+        "name_m": "幻想のベビドラ",
+        "name_f": "幻想のベビドラ",
+        "image_m": "Ava/M/幻想のベビドラ.jpg",
+        "image_f": "Ava/F/幻想のベビドラ.jpg"
+    },
+    {
+        "name_m": "蕾桜の葉緑猫",
+        "name_f": "蕾桜の葉緑猫",
+        "image_m": "Ava/M/蕾桜の葉緑猫.jpg",
+        "image_f": "Ava/F/蕾桜の葉緑猫.jpg"
+    },
+    {
+        "name_m": "深海のサファイア",
+        "name_f": "深海のサファイア",
+        "image_m": "Ava/M/深海のサファイア.jpg",
+        "image_f": "Ava/F/深海のサファイア.jpg"
+    },
+    {
+        "name_m": "ジェミナイーブ",
+        "name_f": "ジェミナイーブ",
+        "image_m": "Ava/M/ジェミナイーブ.jpg",
+        "image_f": "Ava/F/ジェミナイーブ.jpg"
+    },
+    {
+        "name_m": "静寂の夜空",
+        "name_f": "静寂の夜空",
+        "image_m": "Ava/M/静寂の夜空.jpg",
+        "image_f": "Ava/F/静寂の夜空.jpg"
+    },
+    {
+        "name_m": "幽艶の胡蝶",
+        "name_f": "幽艶の胡蝶",
+        "image_m": "Ava/M/幽艶の胡蝶.jpg",
+        "image_f": "Ava/F/幽艶の胡蝶.jpg"
+    },
+    {
+        "name_m": "チェス盤の王様",
+        "name_f": "チェス盤の女王",
+        "image_m": "Ava/M/チェス盤の王様.jpg",
+        "image_f": "Ava/F/チェス盤の女王.jpg"
+    },
+    {
+        "name_m": "クトゥ・落し子",
+        "name_f": "クトゥ・落し子",
+        "image_m": "Ava/M/クトゥ・落し子.jpg",
+        "image_f": "Ava/F/クトゥ・落し子.jpg"
+    },
+    {
+        "name_m": "タウルスの闘争",
+        "name_f": "タウルスの闘争",
+        "image_m": "Ava/M/タウルスの闘争.jpg",
+        "image_f": "Ava/F/タウルスの闘争.jpg"
+    },
+    {
+        "name_m": "ヘルデーモン",
+        "name_f": "ヘルデーモン",
+        "image_m": "Ava/M/ヘルデーモン.jpg",
+        "image_f": "Ava/F/ヘルデーモン.jpg"
+    },
+    {
+        "name_m": "海底皇子・海翔",
+        "name_f": "海底皇女・瑠璃",
+        "image_m": "Ava/M/海底皇子・海翔.jpg",
+        "image_f": "Ava/F/海底皇女・瑠璃.jpg"
+    },
+    {
+        "name_m": "深海の運動服",
+        "name_f": "深海の運動服",
+        "image_m": "Ava/M/深海の運動服.jpg",
+        "image_f": "Ava/F/深海の運動服.jpg"
+    },
+    {
+        "name_m": "オーシャンスター",
+        "name_f": "オーシャンスター",
+        "image_m": "Ava/M/オーシャンスター.jpg",
+        "image_f": "Ava/F/オーシャンスター.jpg"
+    },
+    {
+        "name_m": "がうがうぐるる",
+        "name_f": "がうがうぐるる",
+        "image_m": "Ava/M/がうがうぐるる.jpg",
+        "image_f": "Ava/F/がうがうぐるる.jpg"
+    },
+    {
+        "name_m": "クリオネスペース",
+        "name_f": "クリオネスペース",
+        "image_m": "Ava/M/クリオネスペース.jpg",
+        "image_f": "Ava/F/クリオネスペース.jpg"
+    },
+    {
+        "name_m": "真珠貝のルゥルゥ",
+        "name_f": "真珠貝のルゥルゥ",
+        "image_m": "Ava/M/真珠貝のルゥルゥ.jpg",
+        "image_f": "Ava/F/真珠貝のルゥルゥ.jpg"
+    },
+    {
+        "name_m": "おでかけぴょん",
+        "name_f": "おでかけぴょん",
+        "image_m": "Ava/M/おでかけぴょん.jpg",
+        "image_f": "Ava/F/おでかけぴょん.jpg"
+    },
+    {
+        "name_m": "夕暮れ時の黄昏",
+        "name_f": "夕暮れ時の黄昏",
+        "image_m": "Ava/M/夕暮れ時の黄昏.jpg",
+        "image_f": "Ava/F/夕暮れ時の黄昏.jpg"
+    },
+    {
+        "name_m": "曲芸のシルクス",
+        "name_f": "曲芸のシルクス",
+        "image_m": "Ava/M/曲芸のシルクス.jpg",
+        "image_f": "Ava/F/曲芸のシルクス.jpg"
+    },
+    {
+        "name_m": "ラビプリンス",
+        "name_f": "ラビプリンセス",
+        "image_m": "Ava/M/ラビプリンス.jpg",
+        "image_f": "Ava/F/ラビプリンセス.jpg"
+    },
+    {
+        "name_m": "隠れフォックス",
+        "name_f": "隠れフォックス",
+        "image_m": "Ava/M/隠れフォックス.jpg",
+        "image_f": "Ava/F/隠れフォックス.jpg"
+    },
+    {
+        "name_m": "ディガスワン",
+        "name_f": "ディガスワン",
+        "image_m": "Ava/M/ディガスワン.jpg",
+        "image_f": "Ava/F/ディガスワン.jpg"
+    },
+    {
+        "name_m": "ブラッドドクター",
+        "name_f": "ブラッドナース",
+        "image_m": "Ava/M/ブラッドドクター.jpg",
+        "image_f": "Ava/F/ブラッドナース.jpg"
+    },
+    {
+        "name_m": "フュージョナー",
+        "name_f": "フュージョナー",
+        "image_m": "Ava/M/フュージョナー.jpg",
+        "image_f": "Ava/F/フュージョナー.jpg"
+    },
+    {
+        "name_m": "元気な蹴球少年",
+        "name_f": "もこもこ羊ウェア",
+        "image_m": "Ava/M/元気な蹴球少年.jpg",
+        "image_f": "Ava/F/もこもこ羊ウェア.jpg"
+    },
+    {
+        "name_m": "マジカルドール",
+        "name_f": "マジカルドール",
+        "image_m": "Ava/M/マジカルドール.jpg",
+        "image_f": "Ava/F/マジカルドール.jpg"
+    },
+    {
+        "name_m": "駆け抜ける未来",
+        "name_f": "もってけセーラー",
+        "image_m": "Ava/M/駆け抜ける未来.jpg",
+        "image_f": "Ava/F/もってけセーラー.jpg"
+    },
+    {
+        "name_m": "失われし古代の影",
+        "name_f": "失われし古代の影",
+        "image_m": "Ava/M/失われし古代の影.jpg",
+        "image_f": "Ava/F/失われし古代の影.jpg"
+    },
+    {
+        "name_m": "暗夜に駆ける諜者",
+        "name_f": "暗夜に駆ける諜者",
+        "image_m": "Ava/M/暗夜に駆ける諜者.jpg",
+        "image_f": "Ava/F/暗夜に駆ける諜者.jpg"    },
+    {
+        "name_m": "ニャンドゥコーデ",
+        "name_f": "ニャンドゥドレス",
+        "image_m": "Ava/M/ニャンドゥコーデ.jpg",
+        "image_f": "Ava/F/ニャンドゥドレス.jpg"
+    },
+    {
+        "name_m": "遠征軍ドクター",
+        "name_f": "遠征軍ナース",
+        "image_m": "Ava/M/遠征軍ドクター.jpg",
+        "image_f": "Ava/F/遠征軍ナース.jpg"
+    },
+    {
+        "name_m": "黒金の薔薇騎士",
+        "name_f": "白銀の薔薇騎士",
+        "image_m": "Ava/M/黒金の薔薇騎士.jpg",
+        "image_f": "Ava/F/白銀の薔薇騎士.jpg"
+    },
+    {
+        "name_m": "北欧風情",
+        "name_f": "北欧風情",
+        "image_m": "Ava/M/北欧風情.jpg",
+        "image_f": "Ava/F/北欧風情.jpg"    },
+    {
+        "name_m": "なりきり白血球(好中球)",
+        "name_f": "なりきり白血球(好中球)",
+        "image_m": "Ava/M/なりきり白血球(好中球).jpg",
+        "image_f": "Ava/F/なりきり白血球(好中球).jpg"
+    },
+    {
+        "name_m": "ラッキーラクーム",
+        "name_f": "ラッキーラクーム",
+        "image_m": "Ava/M/ラッキーラクーム.jpg",
+        "image_f": "Ava/F/ラッキーラクーム.jpg"
+    },
+    {
+        "name_m": "明鏡止水の月",
+        "name_f": "明鏡止水の月",
+        "image_m": "Ava/M/明鏡止水の月.jpg",
+        "image_f": "Ava/F/明鏡止水の月.jpg"
+    },
+    {
+        "name_m": "グレイテール",
+        "name_f": "グレイドリーム",
+        "image_m": "Ava/M/グレイテール.jpg",
+        "image_f": "Ava/F/グレイドリーム.jpg"
+    },
+    {
+        "name_m": "不思議の国",
+        "name_f": "不思議の国",
+        "image_m": "Ava/M/不思議の国.jpg",
+        "image_f": "Ava/F/不思議の国.jpg"
+    },
+    {
+        "name_m": "グリーンキーパー",
+        "name_f": "ミニウェイター",
+        "image_m": "Ava/M/グリーンキーパー.jpg",
+        "image_f": "Ava/F/ミニウェイター.jpg"
+    },
+    {
+        "name_m": "スワロスナ",
+        "name_f": "スワロール",
+        "image_m": "Ava/M/スワロスナ.jpg",
+        "image_f": "Ava/F/スワロール.jpg"
+    },
+    {
+        "name_m": "ケロリンリン",
+        "name_f": "ケロリンリン",
+        "image_m": "Ava/M/ケロリンリン.jpg",
+        "image_f": "Ava/F/ケロリンリン.jpg"
+    },
+    {
+        "name_m": "初冬の訪れ",
+        "name_f": "初冬の訪れ",
+        "image_m": "Ava/M/初冬の訪れ.jpg",
+        "image_f": "Ava/F/初冬の訪れ.jpg"
+    },
+    {
+        "name_m": "サンシャインボーイ",
+        "name_f": "サンシャインガール",
+        "image_m": "Ava/M/サンシャインボーイ.jpg",
+        "image_f": "Ava/F/サンシャインガール.jpg"
+    },
+    {
+        "name_m": "青春の1ページ",
+        "name_f": "青春の1ページ",
+        "image_m": "Ava/M/青春の1ページ.jpg",
+        "image_f": "Ava/F/青春の1ページ.jpg"
+    },
+    {
+        "name_m": "晩秋の匂い",
+        "name_f": "晩秋の匂い",
+        "image_m": "Ava/M/晩秋の匂い.jpg",
+        "image_f": "Ava/F/晩秋の匂い.jpg"
+    },
+    {
+        "name_m": "プラッドベア",
+        "name_f": "プラッドベア",
+        "image_m": "Ava/M/プラッドベア.jpg",
+        "image_f": "Ava/F/プラッドベア.jpg"
+    },
+    {
+        "name_m": "暗夜の王子様",
+        "name_f": "暗夜のお姫様",
+        "image_m": "Ava/M/暗夜の王子様.jpg",
+        "image_f": "Ava/F/暗夜のお姫様.jpg"
+    },
+    {
+        "name_m": "アラビアンナイト",
+        "name_f": "アラビアンナイト",
+        "image_m": "Ava/M/アラビアンナイト.jpg",
+        "image_f": "Ava/F/アラビアンナイト.jpg"
+    },
+    {
+        "name_m": "情熱ラベンダー",
+        "name_f": "無口なすみれ色",
+        "image_m": "Ava/M/情熱ラベンダー.jpg",
+        "image_f": "Ava/F/無口なすみれ色.jpg"
+    },
+    {
+        "name_m": "花紅柳緑の野薔薇",
+        "name_f": "花紅柳緑の野薔薇",
+        "image_m": "Ava/M/花紅柳緑の野薔薇.jpg",
+        "image_f": "Ava/F/花紅柳緑の野薔薇.jpg"
+    },
+    {
+        "name_m": "なりきり赤血球",
+        "name_f": "なりきり赤血球",
+        "image_m": "Ava/M/なりきり赤血球.jpg",
+        "image_f": "Ava/F/なりきり赤血球.jpg"
+    },
+    {
+        "name_m": "なりきり単球",
+        "name_f": "なりきり単球",
+        "image_m": "Ava/M/なりきり単球.jpg",
+        "image_f": "Ava/F/なりきり単球.jpg"
+    },
+    {
+        "name_m": "エレクトロゾーン",
+        "name_f": "エレクトロゾーン",
+        "image_m": "Ava/M/エレクトロゾーン.jpg",
+        "image_f": "Ava/F/エレクトロゾーン.jpg"
+
+    },
+    {
+        "name_m": "ドリームパーティ",
+        "name_f": "ドリームパーティ",
+        "image_m": "Ava/M/ドリームパーティ.jpg",
+        "image_f": "Ava/F/ドリームパーティ.jpg"
+    },
+    {
+        "name_m": "マジカルピエロ",
+        "name_f": "マジカルピエロ",
+        "image_m": "Ava/M/マジカルピエロ.jpg",
+        "image_f": "Ava/F/マジカルピエロ.jpg"
+    },
+    {
+        "name_m": "電波世界の彦星",
+        "name_f": "電波世界の織姫",
+        "image_m": "Ava/M/電波世界の彦星.jpg",
+        "image_f": "Ava/F/電波世界の織姫.jpg"
+    },
+    {
+        "name_m": "おでかけ日和",
+        "name_f": "おでかけ日和",
+        "image_m": "Ava/M/おでかけ日和.jpg",
+        "image_f": "Ava/F/おでかけ日和.jpg"
+    },
+    {
+        "name_m": "精霊達の息吹",
+        "name_f": "精霊達の息吹",
+        "image_m": "Ava/M/精霊達の息吹.jpg",
+        "image_f": "Ava/F/精霊達の息吹.jpg"
+    },
+    {
+        "name_m": "夢心地の幻想世界",
+        "name_f": "夢心地の幻想世界",
+        "image_m": "Ava/M/夢心地の幻想世界.jpg",
+        "image_f": "Ava/F/夢心地の幻想世界.jpg"
+    },
+    {
+        "name_m": "桜前線の晴れ着物",
+        "name_f": "桜前線の晴れ着物",
+        "image_m": "Ava/M/桜前線の晴れ着物.jpg",
+        "image_f": "Ava/F/桜前線の晴れ着物.jpg"
+    },
+    {
+        "name_m": "ホリデーコーデ",
+        "name_f": "ホリデーコーデ",
+        "image_m": "Ava/M/ホリデーコーデ.jpg",
+        "image_f": "Ava/F/ホリデーコーデ.jpg"
+    },
+    {
+        "name_m": "2周年わっしょい",
+        "name_f": "2周年わっしょい",
+        "image_m": "Ava/M/2周年わっしょい.jpg",
+        "image_f": "Ava/F/2周年わっしょい.jpg"
+    },
+    {
+        "name_m": "ファンタジアネオ",
+        "name_f": "ファンタジアネオ",
+        "image_m": "Ava/M/ファンタジアネオ.jpg",
+        "image_f": "Ava/F/ファンタジアネオ.jpg"
+    },
+    {
+        "name_m": "ハピハピクロス",
+        "name_f": "ハピハピクロス",
+        "image_m": "Ava/M/ハピハピクロス.jpg",
+        "image_f": "Ava/F/ハピハピクロス.jpg"
+    },
+    {
+        "name_m": "幸運の登竜門",
+        "name_f": "幸運の登竜門",
+        "image_m": "Ava/M/幸運の登竜門.jpg",
+        "image_f": "Ava/F/幸運の登竜門.jpg"
+    },
+    {
+        "name_m": "現実主義なお伽噺",
+        "name_f": "メルヘンなお伽噺",
+        "image_m": "Ava/M/現実主義なお伽噺.jpg",
+        "image_f": "Ava/F/メルヘンなお伽噺.jpg"
+    },
+    {
+        "name_m": "なりきり血小板",
+        "name_f": "なりきり血小板",
+        "image_m": "Ava/M/なりきり血小板.jpg",
+        "image_f": "Ava/F/なりきり血小板.jpg"
+    },
+    {
+        "name_m": "白薔薇の騎士",
+        "name_f": "赤薔薇の王女",
+        "image_m": "Ava/M/白薔薇の騎士.jpg",
+        "image_f": "Ava/F/赤薔薇の王女.jpg"
+    },
+    {
+        "name_m": "デビルドレイン",
+        "name_f": "デビルドレイン",
+        "image_m": "Ava/M/デビルドレイン.jpg",
+        "image_f": "Ava/F/デビルドレイン.jpg"
+    },
+    {
+        "name_m": "冬桜の縁結び",
+        "name_f": "冬桜の舞吹雪",
+        "image_m": "Ava/M/冬桜の縁結び.jpg",
+        "image_f": "Ava/F/冬桜の舞吹雪.jpg"
+    },
+    {
+        "name_m": "フリーレンスター",
+        "name_f": "フリーレンスター",
+        "image_m": "Ava/M/フリーレンスター.jpg",
+        "image_f": "Ava/F/フリーレンスター.jpg"
+    },
+    {
+        "name_m": "ダークタキシード",
+        "name_f": "ダークブライダル",
+        "image_m": "Ava/M/ダークタキシード.jpg",
+        "image_f": "Ava/F/ダークブライダル.jpg"
+    },
+    {
+        "name_m": "ナビダーアイドル",
+        "name_f": "ナビダーアイドル",
+        "image_m": "Ava/M/ナビダーアイドル.jpg",
+        "image_f": "Ava/F/ナビダーアイドル.jpg"
+    },
+    {
+        "name_m": "ヌーヴェアイドル",
+        "name_f": "ヌーヴェアイドル",
+        "image_m": "Ava/M/ヌーヴェアイドル.jpg",
+        "image_f": "Ava/F/ヌーヴェアイドル.jpg"
+    },
+    {
+        "name_m": "漆黒のリーシャ",
+        "name_f": "漆黒のリーシャ",
+        "image_m": "Ava/M/漆黒のリーシャ.jpg",
+        "image_f": "Ava/F/漆黒のリーシャ.jpg"
+    },
+    {
+        "name_m": "レムレースの悲劇",
+        "name_f": "レムレースの悲劇",
+        "image_m": "Ava/M/レムレースの悲劇.jpg",
+        "image_f": "Ava/F/レムレースの悲劇.jpg"
+    },
+    {
+        "name_m": "灼熱ノ消防隊",
+        "name_f": "灼熱ノ消防隊",
+        "image_m": "Ava/M/灼熱ノ消防隊.jpg",
+        "image_f": "Ava/F/灼熱ノ消防隊.jpg"
+    },
+    {
+        "name_m": "荒野に潜む迷彩服",
+        "name_f": "豊潤に育つ迷彩服",
+        "image_m": "Ava/M/荒野に潜む迷彩服.jpg",
+        "image_f": "Ava/F/豊潤に育つ迷彩服.jpg"
+    },
+    {
+        "name_m": "呪われた野獣王子",
+        "name_f": "真実を視る美女姫",
+        "image_m": "Ava/M/呪われた野獣王子.jpg",
+        "image_f": "Ava/F/真実を視る美女姫.jpg"
+    },
+    {
+        "name_m": "竜躍雲津の星空",
+        "name_f": "竜躍雲津の星空",
+        "image_m": "Ava/M/竜躍雲津の星空.jpg",
+        "image_f": "Ava/F/竜躍雲津の星空.jpg"
+    },
+    {
+        "name_m": "恋とロマンス",
+        "name_f": "恋とロマンス",
+        "image_m": "Ava/M/恋とロマンス.jpg",
+        "image_f": "Ava/F/恋とロマンス.jpg"
+    },
+    {
+        "name_m": "自然の錬金術師",
+        "name_f": "自然の錬金術師",
+        "image_m": "Ava/M/自然の錬金術師.jpg",
+        "image_f": "Ava/F/自然の錬金術師.jpg"
+    },
+    {
+        "name_m": "サイレントキラー",
+        "name_f": "サイレントキラー",
+        "image_m": "Ava/M/サイレントキラー.jpg",
+        "image_f": "Ava/F/サイレントキラー.jpg"
+    },
+    {
+        "name_m": "黄金郷の十字軍",
+        "name_f": "黄金郷の十字軍",
+        "image_m": "Ava/M/黄金郷の十字軍.jpg",
+        "image_f": "Ava/F/黄金郷の十字軍.jpg"
+    },
+    {
+        "name_m": "雪景色の雪ヒョウ",
+        "name_f": "雪景色の雪ウサギ",
+        "image_m": "Ava/M/雪景色の雪ヒョウ.jpg",
+        "image_f": "Ava/F/雪景色の雪ウサギ.jpg"
+    },
+    {
+        "name_m": "アンジェエール",
+        "name_f": "アンジュアーラ",
+        "image_m": "Ava/M/アンジェエール.jpg",
+        "image_f": "Ava/F/アンジュアーラ.jpg"
+    },
+    {
+        "name_m": "オサレファーム",
+        "name_f": "オサレファーム",
+        "image_m": "Ava/M/オサレファーム.jpg",
+        "image_f": "Ava/F/オサレファーム.jpg"
+    },
+    {
+        "name_m": "冬城之ガウン",
+        "name_f": "セイントの誓い",
+        "image_m": "Ava/M/冬城之ガウン.jpg",
+        "image_f": "Ava/F/セイントの誓い.jpg"
+    },
+    {
+        "name_m": "サンリオ学院制服",
+        "name_f": "サンリオ学院制服",
+        "image_m": "Ava/M/サンリオ学院制服.jpg",
+        "image_f": "Ava/F/サンリオ学院制服.jpg"
+    },
+    {
+        "name_m": "マジカルエンゼル",
+        "name_f": "マジカルエンゼル",
+        "image_m": "Ava/M/マジカルエンゼル.jpg",
+        "image_f": "Ava/F/マジカルエンゼル.jpg"
+    },
+    {
+        "name_m": "クロミスイーツ",
+        "name_f": "マイメロディスイーツ",
+        "image_m": "Ava/M/クロミスイーツ.jpg",
+        "image_f": "Ava/F/マイメロディスイーツ.jpg"
+    },
+    {
+        "name_m": "巨星スコーピオン",
+        "name_f": "巨星スコーピオン",
+        "image_m": "Ava/M/巨星スコーピオン.jpg",
+        "image_f": "Ava/F/巨星スコーピオン.jpg"
+    },
+    {
+        "name_m": "漆黒ノ静夜",
+        "name_f": "約束ノ幻海",
+        "image_m": "Ava/M/漆黒ノ静夜.jpg",
+        "image_f": "Ava/F/約束ノ幻海.jpg"
+    },
+    {
+        "name_m": "約束ノ乙鳥",
+        "name_f": "縁結ノ乙鳥",
+        "image_m": "Ava/M/約束ノ乙鳥.jpg",
+        "image_f": "Ava/F/縁結ノ乙鳥.jpg"
+    },
+    {
+        "name_m": "暗黒ノ番人",
+        "name_f": "暗黒ノ番人",
+        "image_m": "Ava/M/暗黒ノ番人.jpg",
+        "image_f": "Ava/F/暗黒ノ番人.jpg"
+    },
+    {
+        "name_m": "恋スル乙男",
+        "name_f": "恋スル乙女",
+        "image_m": "Ava/M/恋スル乙男.jpg",
+        "image_f": "Ava/F/恋スル乙女.jpg"
+    },
+    {
+        "name_m": "キグルミウサタン",
+        "name_f": "キグルミウサタン",
+        "image_m": "Ava/M/キグルミウサタン.jpg",
+        "image_f": "Ava/F/キグルミウサタン.jpg"
+    },
+    {
+        "name_m": "スミレファント",
+        "name_f": "シオンメモリー",
+        "image_m": "Ava/M/スミレファント.jpg",
+        "image_f": "Ava/F/シオンメモリー.jpg"
+    },
+    {
+        "name_m": "甘甘コーギー",
+        "name_f": "甘甘コーギー",
+        "image_m": "Ava/M/甘甘コーギー.jpg",
+        "image_f": "Ava/F/甘甘コーギー.jpg"
+    },
+    {
+        "name_m": "クロミコート",
+        "name_f": "クロミロリータ",
+        "image_m": "Ava/M/クロミコート.jpg",
+        "image_f": "Ava/F/クロミロリータ.jpg"
+    },
+    {
+        "name_m": "青狐の陽春",
+        "name_f": "桜狐の春霞",
+        "image_m": "Ava/M/青狐の陽春.jpg",
+        "image_f": "Ava/F/桜狐の春霞.jpg"
+    },
+    {
+        "name_m": "スターエトワール",
+        "name_f": "スターエトワール",
+        "image_m": "Ava/M/スターエトワール.jpg",
+        "image_f": "Ava/F/スターエトワール.jpg"
+    },
+    {
+        "name_m": "大熊猫の宮廷彦",
+        "name_f": "大熊猫の宮廷姫",
+        "image_m": "Ava/M/大熊猫の宮廷彦.jpg",
+        "image_f": "Ava/F/大熊猫の宮廷姫.jpg"
+    },
+    {
+        "name_m": "降雪のプリンス",
+        "name_f": "降雪のプリンセス",
+        "image_m": "Ava/M/降雪のプリンス.jpg",
+        "image_f": "Ava/F/降雪のプリンセス.jpg"
+    },
+    {
+        "name_m": "レインボーコート",
+        "name_f": "レインボーコート",
+        "image_m": "Ava/M/レインボーコート.jpg",
+        "image_f": "Ava/F/レインボーコート.jpg"
+    },
+    {
+        "name_m": "ミーツキャット",
+        "name_f": "ミーツキャット",
+        "image_m": "Ava/M/ミーツキャット.jpg",
+        "image_f": "Ava/F/ミーツキャット.jpg"
+    },
+    {
+        "name_m": "おでかけマイメロディ",
+        "name_f": "マイメロディドレス",
+        "image_m": "Ava/M/おでかけマイメロディ.jpg",
+        "image_f": "Ava/F/マイメロディドレス.jpg"
+    },
+    {
+        "name_m": "おやすみパジャマ",
+        "name_f": "おやすみパジャマ",
+        "image_m": "Ava/M/おやすみパジャマ.jpg",
+        "image_f": "Ava/F/おやすみパジャマ.jpg"
+    },
+    {
+        "name_m": "豪華絢爛の白虎",
+        "name_f": "豪華絢爛の白虎",
+        "image_m": "Ava/M/豪華絢爛の白虎.jpg",
+        "image_f": "Ava/F/豪華絢爛の白虎.jpg"
+    },
+    {
+        "name_m": "秋晴れのアチェロ",
+        "name_f": "秋晴れのアチェロ",
+        "image_m": "Ava/M/秋晴れのアチェロ.jpg",
+        "image_f": "Ava/F/秋晴れのアチェロ.jpg"
+    },
+    {
+        "name_m": "春暖のクローバー",
+        "name_f": "春暖のクローバー",
+        "image_m": "Ava/M/春暖のクローバー.jpg",
+        "image_f": "Ava/F/春暖のクローバー.jpg"
+    },
+    {
+        "name_m": "天平のリーブラ",
+        "name_f": "天平のリーブラ",
+        "image_m": "Ava/M/天平のリーブラ.jpg",
+        "image_f": "Ava/F/天平のリーブラ.jpg"
+    },
+    {
+        "name_m": "冥暗の月光",
+        "name_f": "月光の羽衣",
+        "image_m": "Ava/M/冥暗の月光.jpg",
+        "image_f": "Ava/F/月光の羽衣.jpg"
+    },
+    {
+        "name_m": "カラフルガンナー",
+        "name_f": "カラフルガンナー",
+        "image_m": "Ava/M/カラフルガンナー.jpg",
+        "image_f": "Ava/F/カラフルガンナー.jpg"
+    },
+    {
+        "name_m": "アネモスセージ",
+        "name_f": "アネモスファータ",
+        "image_m": "Ava/M/アネモスセージ.jpg",
+        "image_f": "Ava/F/アネモスファータ.jpg"
+    },
+    {
+        "name_m": "冬のうさカジュ",
+        "name_f": "冬のうさカジュ",
+        "image_m": "Ava/M/冬のうさカジュ.jpg",
+        "image_f": "Ava/F/冬のうさカジュ.jpg"
+    },
+    {
+        "name_m": "竜躍雲津の星空★0",
+        "name_f": "竜躍雲津の星空★0",
+        "image_m": "Ava/M/竜躍雲津の星空★0.jpg",
+        "image_f": "Ava/F/竜躍雲津の星空★0.jpg"
+    },
+    {
+        "name_m": "2周年わっしょい★0",
+        "name_f": "2周年わっしょい★0",
+        "image_m": "Ava/M/2周年わっしょい★0.jpg",
+        "image_f": "Ava/F/2周年わっしょい★0.jpg"
+    },
+    {
+        "name_m": "フリーレンスター★0",
+        "name_f": "フリーレンスター★0",
+        "image_m": "Ava/M/フリーレンスター★0.jpg",
+        "image_f": "Ava/F/フリーレンスター★0.jpg"
+    },
+    {
+        "name_m": "卯年の一張羅",
+        "name_f": "卯年の一張羅",
+        "image_m": "Ava/M/卯年の一張羅.jpg",
+        "image_f": "Ava/F/卯年の一張羅.jpg"
+    },
+    {
+        "name_m": "征服のロッサ",
+        "name_f": "征服のロッサ",
+        "image_m": "Ava/M/征服のロッサ.jpg",
+        "image_f": "Ava/F/征服のロッサ.jpg"
+    },
+    {
+        "name_m": "情熱ノ黒鶴",
+        "name_f": "情熱ノ黒燕",
+        "image_m": "Ava/M/情熱ノ黒鶴.jpg",
+        "image_f": "Ava/F/情熱ノ黒燕.jpg"
+    },
+    {
+        "name_m": "テディドラッへ",
+        "name_f": "テディドラッへ",
+        "image_m": "Ava/M/テディドラッへ.jpg",
+        "image_f": "Ava/F/テディドラッへ.jpg"
+    },
+    {
+        "name_m": "スイーツヘンゼル",
+        "name_f": "スイーツグレーテ",
+        "image_m": "Ava/M/スイーツヘンゼル.jpg",
+        "image_f": "Ava/F/スイーツグレーテ.jpg"
+    },
+    {
+        "name_m": "翠玉の騎士",
+        "name_f": "翠玉の貴婦人",
+        "image_m": "Ava/M/翠玉の騎士.jpg",
+        "image_f": "Ava/F/翠玉の貴婦人.jpg"
+    },
+    {
+        "name_m": "天使の翅",
+        "name_f": "天使の羽",
+        "image_m": "Ava/M/天使の翅.jpg",
+        "image_f": "Ava/F/天使の羽.jpg"
+    },
+    {
+        "name_m": "麗しき紫蘭",
+        "name_f": "麗しき紫蘭",
+        "image_m": "Ava/M/麗しき紫蘭.jpg",
+        "image_f": "Ava/F/麗しき紫蘭.jpg"
+    },
+    {
+        "name_m": "煉獄のイブリース",
+        "name_f": "煉獄のイブリース",
+        "image_m": "Ava/M/煉獄のイブリース.jpg",
+        "image_f": "Ava/F/煉獄のイブリース.jpg"
+    },
+    {
+        "name_m": "ヒッキー亀くん",
+        "name_f": "ヒッキー亀ちゃん",
+        "image_m": "Ava/M/ヒッキー亀くん.jpg",
+        "image_f": "Ava/F/ヒッキー亀ちゃん.jpg"
+    },
+    {
+        "name_m": "ロイヤルナイト",
+        "name_f": "ロイヤルスノウ",
+        "image_m": "Ava/M/ロイヤルナイト.jpg",
+        "image_f": "Ava/F/ロイヤルスノウ.jpg"
+    },
+    {
+        "name_m": "スノーグレイス",
+        "name_f": "スノーグレイス",
+        "image_m": "Ava/M/スノーグレイス.jpg",
+        "image_f": "Ava/F/スノーグレイス.jpg"
+    },
+    {
+        "name_m": "恋焦がれし冬楓",
+        "name_f": "恋焦がれし冬楓",
+        "image_m": "Ava/M/恋焦がれし冬楓.jpg",
+        "image_f": "Ava/F/恋焦がれし冬楓.jpg"
+    },
+    {
+        "name_m": "ジョーヌテイル",
+        "name_f": "ジョーヌテイル",
+        "image_m": "Ava/M/ジョーヌテイル.jpg",
+        "image_f": "Ava/F/ジョーヌテイル.jpg"
+    },
+    {
+        "name_m": "桜兎の紫苑",
+        "name_f": "桜兎の撫子",
+        "image_m": "Ava/M/桜兎の紫苑.jpg",
+        "image_f": "Ava/F/桜兎の撫子.jpg"
+    },
+    {
+        "name_m": "紫紺の冬雷",
+        "name_f": "紫紺の雷光",
+        "image_m": "Ava/M/紫紺の冬雷.jpg",
+        "image_f": "Ava/F/紫紺の雷光.jpg"
+    },
+    {
+        "name_m": "幻のスカイローズ",
+        "name_f": "夢のスカイローズ",
+        "image_m": "Ava/M/幻のスカイローズ.jpg",
+        "image_f": "Ava/F/夢のスカイローズ.jpg"
+    },
+    {
+        "name_m": "唐紅の御魂",
+        "name_f": "唐紅の舞踏",
+        "image_m": "Ava/M/唐紅の御魂.jpg",
+        "image_f": "Ava/F/唐紅の舞踏.jpg"
+    },
+    {
+        "name_m": "ハッピーメリクリ",
+        "name_f": "ハッピーメリクリ",
+        "image_m": "Ava/M/ハッピーメリクリ.jpg",
+        "image_f": "Ava/F/ハッピーメリクリ.jpg"
+    },
+    {
+        "name_m": "イニシエスター",
+        "name_f": "イニシエスター",
+        "image_m": "Ava/M/イニシエスター.jpg",
+        "image_f": "Ava/F/イニシエスター.jpg"
+    },
+    {
+        "name_m": "ノービレクロウ",
+        "name_f": "ノービレクロウ",
+        "image_m": "Ava/M/ノービレクロウ.jpg",
+        "image_f": "Ava/F/ノービレクロウ.jpg"
+    },
+    {
+        "name_m": "空兎ノ王子様",
+        "name_f": "桃兎ノお姫様",
+        "image_m": "Ava/M/空兎ノ王子様.jpg",
+        "image_f": "Ava/F/桃兎ノお姫様.jpg"
+    },
+    {
+        "name_m": "光源の福卯",
+        "name_f": "月追い福卯",
+        "image_m": "Ava/M/光源の福卯.jpg",
+        "image_f": "Ava/F/月追い福卯.jpg"
+    },
+    {
+        "name_m": "花園ベルフラワー",
+        "name_f": "花園ベルフラワー",
+        "image_m": "Ava/M/花園ベルフラワー.jpg",
+        "image_f": "Ava/F/花園ベルフラワー.jpg"
+    },
+    {
+        "name_m": "ダイナソーウェア",
+        "name_f": "ダイナソーウェア",
+        "image_m": "Ava/M/ダイナソーウェア.jpg",
+        "image_f": "Ava/F/ダイナソーウェア.jpg"
+    },
+    {
+        "name_m": "だるねこパジャマ",
+        "name_f": "だるねこパジャマ",
+        "image_m": "Ava/M/だるねこパジャマ.jpg",
+        "image_f": "Ava/F/だるねこパジャマ.jpg"
+    },
+    {
+        "name_m": "シースボーイ",
+        "name_f": "シールスター",
+        "image_m": "Ava/M/シースボーイ.jpg",
+        "image_f": "Ava/F/シールスター.jpg"
+    },
+    {
+        "name_m": "タイヤキペンペン",
+        "name_f": "タイヤキペンペン",
+        "image_m": "Ava/M/タイヤキペンペン.jpg",
+        "image_f": "Ava/F/タイヤキペンペン.jpg"
+    },
+    {
+        "name_m": "トラベリスの旅路",
+        "name_f": "トラベリスの旅路",
+        "image_m": "Ava/M/トラベリスの旅路.jpg",
+        "image_f": "Ava/F/トラベリスの旅路.jpg"
+    },
+    {
+        "name_m": "スノーラビット",
+        "name_f": "スノーラビット",
+        "image_m": "Ava/M/スノーラビット.jpg",
+        "image_f": "Ava/F/スノーラビット.jpg"
+    },
+    {
+        "name_m": "にゃんこん",
+        "name_f": "にゃんこん",
+        "image_m": "Ava/M/にゃんこん.jpg",
+        "image_f": "Ava/F/にゃんこん.jpg"
+    },
+    {
+        "name_m": "寒空の秋模様",
+        "name_f": "寒空の秋模様",
+        "image_m": "Ava/M/寒空の秋模様.jpg",
+        "image_f": "Ava/F/寒空の秋模様.jpg"
+    },
+    {
+        "name_m": "雪蝶のパルファム",
+        "name_f": "雪蝶のパルファム",
+        "image_m": "Ava/M/雪蝶のパルファム.jpg",
+        "image_f": "Ava/F/雪蝶のパルファム.jpg"
+    },
+    {
+        "name_m": "フロンティアガン",
+        "name_f": "フロンティアガン",
+        "image_m": "Ava/M/フロンティアガン.jpg",
+        "image_f": "Ava/F/フロンティアガン.jpg"
+    },
+    {
+        "name_m": "星屑カプリコーン",
+        "name_f": "星屑カプリコーン",
+        "image_m": "Ava/M/星屑カプリコーン.jpg",
+        "image_f": "Ava/F/星屑カプリコーン.jpg"
+    },
+    {
+        "name_m": "獄門の脱走劇",
+        "name_f": "獄門の脱走劇",
+        "image_m": "Ava/M/獄門の脱走劇.jpg",
+        "image_f": "Ava/F/獄門の脱走劇.jpg"
+    },
+    {
+        "name_m": "ヘーゼルコロコロ",
+        "name_f": "ヘーゼルコロコロ",
+        "image_m": "Ava/M/ヘーゼルコロコロ.jpg",
+        "image_f": "Ava/F/ヘーゼルコロコロ.jpg"
+    },
+    {
+        "name_m": "オータムホリデー",
+        "name_f": "オータムホリデー",
+        "image_m": "Ava/M/オータムホリデー.jpg",
+        "image_f": "Ava/F/オータムホリデー.jpg"
+    },
+    {
+        "name_m": "氷上のフィギュア",
+        "name_f": "氷上のフィギュア",
+        "image_m": "Ava/M/氷上のフィギュア.jpg",
+        "image_f": "Ava/F/氷上のフィギュア.jpg"
+    },
+    {
+        "name_m": "桜模様の羽織着物",
+        "name_f": "桜模様のメイド服",
+        "image_m": "Ava/M/桜模様の羽織着物.jpg",
+        "image_f": "Ava/F/桜模様のメイド服.jpg"
+    },
+    {
+        "name_m": "月夜のリフレイン",
+        "name_f": "月夜のリフレイン",
+        "image_m": "Ava/M/月夜のリフレイン.jpg",
+        "image_f": "Ava/F/月夜のリフレイン.jpg"
+    },
+    {
+        "name_m": "吸血鬼のロマンス",
+        "name_f": "吸血鬼のロマンス",
+        "image_m": "Ava/M/吸血鬼のロマンス.jpg",
+        "image_f": "Ava/F/吸血鬼のロマンス.jpg"
+    },
+    {
+        "name_m": "赤薔薇の吸血鬼",
+        "name_f": "赤薔薇の吸血鬼",
+        "image_m": "Ava/M/赤薔薇の吸血鬼.jpg",
+        "image_f": "Ava/F/赤薔薇の吸血鬼.jpg"
+    },
+    {
+        "name_m": "サジッタショット",
+        "name_f": "サジッタショット",
+        "image_m": "Ava/M/サジッタショット.jpg",
+        "image_f": "Ava/F/サジッタショット.jpg"
+    },
+    {
+        "name_m": "ペアルックッキー",
+        "name_f": "ペアルックッキー",
+        "image_m": "Ava/M/ペアルックッキー.jpg",
+        "image_f": "Ava/F/ペアルックッキー.jpg"
+    },
+    {
+        "name_m": "リムル(八星魔王)",
+        "name_f": "リムル(八星魔王)",
+        "image_m": "Ava/M/リムル(八星魔王).jpg",
+        "image_f": "Ava/F/リムル(八星魔王).jpg"
+    },
+    {
+        "name_m": "リムル(通常)",
+        "name_f": "リムル(通常)",
+        "image_m": "Ava/M/リムル(通常).jpg",
+        "image_f": "Ava/F/リムル(通常).jpg"
+    },
+    {
+        "name_m": "ヴァイスプルーム",
+        "name_f": "ヴァイスプルーム",
+        "image_m": "Ava/M/ヴァイスプルーム.jpg",
+        "image_f": "Ava/F/ヴァイスプルーム.jpg"
+    },
+    {
+        "name_m": "ベニマル",
+        "name_f": "シュナ",
+        "image_m": "Ava/M/ベニマル.jpg",
+        "image_f": "Ava/F/シュナ.jpg"
+    },
+    {
+        "name_m": "神聖アクエリアス",
+        "name_f": "神聖アクエリアス",
+        "image_m": "Ava/M/神聖アクエリアス.jpg",
+        "image_f": "Ava/F/神聖アクエリアス.jpg"
+    },
+    {
+        "name_m": "ディアブロ",
+        "name_f": "シオン",
+        "image_m": "Ava/M/ディアブロ.jpg",
+        "image_f": "Ava/F/シオン.jpg"
+    },
+    {
+        "name_m": "なりきりリカント",
+        "name_f": "なりきりリシェル",
+        "image_m": "Ava/M/なりきりリカント.jpg",
+        "image_f": "Ava/F/なりきりリシェル.jpg"
+    },
+    {
+        "name_m": "聖夜装飾樹の賛歌",
+        "name_f": "聖夜装飾樹の賛歌",
+        "image_m": "Ava/M/聖夜装飾樹の賛歌.jpg",
+        "image_f": "Ava/F/聖夜装飾樹の賛歌.jpg"
+    },
+    {
+        "name_m": "純白ケープマント",
+        "name_f": "純白ケープマント",
+        "image_m": "Ava/M/純白ケープマント.jpg",
+        "image_f": "Ava/F/純白ケープマント.jpg"
+    },
+    {
+        "name_m": "フォックスノー",
+        "name_f": "フォックスノー",
+        "image_m": "Ava/M/フォックスノー.jpg",
+        "image_f": "Ava/F/フォックスノー.jpg"
+    },
+    {
+        "name_m": "白熊サロペット",
+        "name_f": "白熊サロペット",
+        "image_m": "Ava/M/白熊サロペット.jpg",
+        "image_f": "Ava/F/白熊サロペット.jpg"
+    },
+    {
+        "name_m": "新年大吉の犬張子",
+        "name_f": "新年大吉の犬張子",
+        "image_m": "Ava/M/新年大吉の犬張子.jpg",
+        "image_f": "Ava/F/新年大吉の犬張子.jpg"
+    },
+    {
+        "name_m": "東洋タイガー",
+        "name_f": "東洋タイガー",
+        "image_m": "Ava/M/東洋タイガー.jpg",
+        "image_f": "Ava/F/東洋タイガー.jpg"
+    },
+    {
+        "name_m": "聖夜のアスミー",
+        "name_f": "聖夜のアスミー",
+        "image_m": "Ava/M/聖夜のアスミー.jpg",
+        "image_f": "Ava/F/聖夜のアスミー.jpg"
+    },
+    {
+        "name_m": "だる猫チアボーイ",
+        "name_f": "だる猫チアガール",
+        "image_m": "Ava/M/だる猫チアボーイ.jpg",
+        "image_f": "Ava/F/だる猫チアガール.jpg"
+    },
+    {
+        "name_m": "不思議の国の恋",
+        "name_f": "不思議の国の恋",
+        "image_m": "Ava/M/不思議の国の恋.jpg",
+        "image_f": "Ava/F/不思議の国の恋.jpg"
+    },
+    {
+        "name_m": "小悪魔メイド",
+        "name_f": "小悪魔メイド",
+        "image_m": "Ava/M/小悪魔メイド.jpg",
+        "image_f": "Ava/F/小悪魔メイド.jpg"
+    },
+    {
+        "name_m": "ちょい悪番長",
+        "name_f": "ちょい悪スケバン",
+        "image_m": "Ava/M/ちょい悪番長.jpg",
+        "image_f": "Ava/F/ちょい悪スケバン.jpg"
+    },
+    {
+        "name_m": "型破りなティーン",
+        "name_f": "型破りなティーン",
+        "image_m": "Ava/M/型破りなティーン.jpg",
+        "image_f": "Ava/F/型破りなティーン.jpg"
+    },
+    {
+        "name_m": "純血の紫陽花",
+        "name_f": "純血の紫陽花",
+        "image_m": "Ava/M/純血の紫陽花.jpg",
+        "image_f": "Ava/F/純血の紫陽花.jpg"
+    },
+    {
+        "name_m": "ナイトフィーバー",
+        "name_f": "ナイトフィーバー",
+        "image_m": "Ava/M/ナイトフィーバー.jpg",
+        "image_f": "Ava/F/ナイトフィーバー.jpg"
+    },
+    {
+        "name_m": "コーシカの流浪人",
+        "name_f": "コーシカの流浪人",
+        "image_m": "Ava/M/コーシカの流浪人.jpg",
+        "image_f": "Ava/F/コーシカの流浪人.jpg"
+    },
+    {
+        "name_m": "わたくまパジャマ",
+        "name_f": "わたくまパジャマ",
+        "image_m": "Ava/M/わたくまパジャマ.jpg",
+        "image_f": "Ava/F/わたくまパジャマ.jpg"
+    },
+    {
+        "name_m": "涼夜の花火",
+        "name_f": "涼夜の花火",
+        "image_m": "Ava/M/涼夜の花火.jpg",
+        "image_f": "Ava/F/涼夜の花火.jpg"
+    },
+    {
+        "name_m": "大熊猫の唐装",
+        "name_f": "大熊猫の唐装",
+        "image_m": "Ava/M/大熊猫の唐装.jpg",
+        "image_f": "Ava/F/大熊猫の唐装.jpg"
+    },
+    {
+        "name_m": "三載一遇の記憶",
+        "name_f": "三載一遇の記憶",
+        "image_m": "Ava/M/三載一遇の記憶.jpg",
+        "image_f": "Ava/F/三載一遇の記憶.jpg"
+    },
+    {
+        "name_m": "勅命陏身保命の装",
+        "name_f": "勅命陏身保命の装",
+        "image_m": "Ava/M/勅命陏身保命の装.jpg",
+        "image_f": "Ava/F/勅命陏身保命の装.jpg"
+    },
+    {
+        "name_m": "アイス屋さん",
+        "name_f": "アイス屋ちゃん",
+        "image_m": "Ava/M/アイス屋さん.jpg",
+        "image_f": "Ava/F/アイス屋ちゃん.jpg"
+    },
+    {
+        "name_m": "涼夏の夜桜",
+        "name_f": "涼夏の夜桜",
+        "image_m": "Ava/M/涼夏の夜桜.jpg",
+        "image_f": "Ava/F/涼夏の夜桜.jpg"
+    },
+    {
+        "name_m": "橙色のサロペット",
+        "name_f": "橙色のサロペット",
+        "image_m": "Ava/M/橙色のサロペット.jpg",
+        "image_f": "Ava/F/橙色のサロペット.jpg"
+    },
+    {
+        "name_m": "戦いの火蓋の軍服",
+        "name_f": "戦いの火蓋の洋服",
+        "image_m": "Ava/M/戦いの火蓋の軍服.jpg",
+        "image_f": "Ava/F/戦いの火蓋の洋服.jpg"
+    },
+    {
+        "name_m": "ティンクルスター",
+        "name_f": "ティンクルスター",
+        "image_m": "Ava/M/ティンクルスター.jpg",
+        "image_f": "Ava/F/ティンクルスター.jpg"
+    },
+    {
+        "name_m": "運命の融合賢者",
+        "name_f": "運命の融合賢者",
+        "image_m": "Ava/M/運命の融合賢者.jpg",
+        "image_f": "Ava/F/運命の融合賢者.jpg"
+    },
+    {
+        "name_m": "聖域のホルス",
+        "name_f": "聖域のホルス",
+        "image_m": "Ava/M/聖域のホルス.jpg",
+        "image_f": "Ava/F/聖域のホルス.jpg"
+    },
+    {
+        "name_m": "フジ咲く聖騎士",
+        "name_f": "フジ咲く聖女",
+        "image_m": "Ava/M/フジ咲く聖騎士.jpg",
+        "image_f": "Ava/F/フジ咲く聖女.jpg"
+    },
+    {
+        "name_m": "ジャージの運動服",
+        "name_f": "ジャージの運動服",
+        "image_m": "Ava/M/ジャージの運動服.jpg",
+        "image_f": "Ava/F/ジャージの運動服.jpg"
+    },
+    {
+        "name_m": "リング上の王者",
+        "name_f": "ビーチ上の白雪姫",
+        "image_m": "Ava/M/リング上の王者.jpg",
+        "image_f": "Ava/F/ビーチ上の白雪姫.jpg"
+    },
+    {
+        "name_m": "のにゃ教・教団服",
+        "name_f": "のにゃ教・教団服",
+        "image_m": "Ava/M/のにゃ教・教団服.jpg",
+        "image_f": "Ava/F/のにゃ教・教団服.jpg"
+    },
+    {
+        "name_m": "真珠の耳飾りの猫",
+        "name_f": "真珠の耳飾りの猫",
+        "image_m": "Ava/M/真珠の耳飾りの猫.jpg",
+        "image_f": "Ava/F/真珠の耳飾りの猫.jpg"
+    },
+    {
+        "name_m": "おしゃべり小学生",
+        "name_f": "おしゃべり園児",
+        "image_m": "Ava/M/おしゃべり小学生.jpg",
+        "image_f": "Ava/F/おしゃべり園児.jpg"
+    },
+    {
+        "name_m": "竹取の月見物語",
+        "name_f": "竹取の月見物語",
+        "image_m": "Ava/M/竹取の月見物語.jpg",
+        "image_f": "Ava/F/竹取の月見物語.jpg"
+    },
+    {
+        "name_m": "エイダの操縦士",
+        "name_f": "エイダの操縦士",
+        "image_m": "Ava/M/エイダの操縦士.jpg",
+        "image_f": "Ava/F/エイダの操縦士.jpg"
+    },
+    {
+        "name_m": "フューチャー忍者",
+        "name_f": "フューチャー忍者",
+        "image_m": "Ava/M/フューチャー忍者.jpg",
+        "image_f": "Ava/F/フューチャー忍者.jpg"
+    },
+    {
+        "name_m": "シティアイドル",
+        "name_f": "シティアイドル",
+        "image_m": "Ava/M/シティアイドル.jpg",
+        "image_f": "Ava/F/シティアイドル.jpg"
+    },
+    {
+        "name_m": "月宮廷の王子様",
+        "name_f": "月宮廷のお姫様",
+        "image_m": "Ava/M/月宮廷の王子様.jpg",
+        "image_f": "Ava/F/月宮廷のお姫様.jpg"
+    },
+    {
+        "name_m": "モノクロの宝石空",
+        "name_f": "モノクロの宝石空",
+        "image_m": "Ava/M/モノクロの宝石空.jpg",
+        "image_f": "Ava/F/モノクロの宝石空.jpg"
+    },
+    {
+        "name_m": "マリンブルーの雄姿",
+        "name_f": "マリンブルーの誘惑",
+        "image_m": "Ava/M/マリンブルーの雄姿.jpg",
+        "image_f": "Ava/F/マリンブルーの誘惑.jpg"
+    },
+    {
+        "name_m": "幻獣の和服",
+        "name_f": "幻獣の着物",
+        "image_m": "Ava/M/幻獣の和服.jpg",
+        "image_f": "Ava/F/幻獣の着物.jpg"
+    },
+    {
+        "name_m": "トランスパランス",
+        "name_f": "トランスパランス",
+        "image_m": "Ava/M/トランスパランス.jpg",
+        "image_f": "Ava/F/トランスパランス.jpg"
+    },
+    {
+        "name_m": "紫水晶の誘い",
+        "name_f": "紫水晶の誘い",
+        "image_m": "Ava/M/紫水晶の誘い.jpg",
+        "image_f": "Ava/F/紫水晶の誘い.jpg"
+    },
+    {
+        "name_m": "アビスクロック",
+        "name_f": "アビスメイド",
+        "image_m": "Ava/M/アビスクロック.jpg",
+        "image_f": "Ava/F/アビスメイド.jpg"
+    },
+    {
+        "name_m": "ホワイトラビット",
+        "name_f": "キュンフレーバー",
+        "image_m": "Ava/M/ホワイトラビット.jpg",
+        "image_f": "Ava/F/キュンフレーバー.jpg"
+    },
+    {
+        "name_m": "ふわもこラクーム",
+        "name_f": "ふわもこラクーム",
+        "image_m": "Ava/M/ふわもこラクーム.jpg",
+        "image_f": "Ava/F/ふわもこラクーム.jpg"
+    },
+    {
+        "name_m": "ラクームブレザー",
+        "name_f": "ラクームブレザー",
+        "image_m": "Ava/M/ラクームブレザー.jpg",
+        "image_f": "Ava/F/ラクームブレザー.jpg"
+    },
+    {
+        "name_m": "幸福なお婿さん",
+        "name_f": "幸福なお嫁さん",
+        "image_m": "Ava/M/幸福なお婿さん.jpg",
+        "image_f": "Ava/F/幸福なお嫁さん.jpg"
+    },
+    {
+        "name_m": "プリティソウル",
+        "name_f": "プリティソウル",
+        "image_m": "Ava/M/プリティソウル.jpg",
+        "image_f": "Ava/F/プリティソウル.jpg"
+    },
+    {
+        "name_m": "バトラー",
+        "name_f": "ゆめかわワンピ",
+        "image_m": "Ava/M/バトラー.jpg",
+        "image_f": "Ava/F/ゆめかわワンピ.jpg"
+    },
+    {
+        "name_m": "騎士団長の制服",
+        "name_f": "騎士団長の制服",
+        "image_m": "Ava/M/騎士団長の制服.jpg",
+        "image_f": "Ava/F/騎士団長の制服.jpg"
+    },
+    {
+        "name_m": "スノウモデル",
+        "name_f": "スノウモデル",
+        "image_m": "Ava/M/スノウモデル.jpg",
+        "image_f": "Ava/F/スノウモデル.jpg"
+    },
+    {
+        "name_m": "サマーボーイ",
+        "name_f": "サマーガール",
+        "image_m": "Ava/M/サマーボーイ.jpg",
+        "image_f": "Ava/F/サマーガール.jpg"
+    },
+    {
+        "name_m": "古代人の軌跡",
+        "name_f": "星の巫女",
+        "image_m": "Ava/M/古代人の軌跡.jpg",
+        "image_f": "Ava/F/星の巫女.jpg"
+    },
+    {
+        "name_m": "白き救世主",
+        "name_f": "フリルドレス",
+        "image_m": "Ava/M/白き救世主.jpg",
+        "image_f": "Ava/F/フリルドレス.jpg"
+    },
+    {
+        "name_m": "ミニジャック",
+        "name_f": "スカルジャック",
+        "image_m": "Ava/M/ミニジャック.jpg",
+        "image_f": "Ava/F/スカルジャック.jpg"
+    },
+    {
+        "name_m": "烈火昇天",
+        "name_f": "紅き太陽の服",
+        "image_m": "Ava/M/烈火昇天.jpg",
+        "image_f": "Ava/F/紅き太陽の服.jpg"
+    },
+    {
+        "name_m": "ディアナイト",
+        "name_f": "ディアシビル",
+        "image_m": "Ava/M/ディアナイト.jpg",
+        "image_f": "Ava/F/ディアシビル.jpg"
+    },
+    {
+        "name_m": "ポップデビル",
+        "name_f": "ポップデビル",
+        "image_m": "Ava/M/ポップデビル.jpg",
+        "image_f": "Ava/F/ポップデビル.jpg"
+    },
+    {
+        "name_m": "紫苑の大輪",
+        "name_f": "紫苑の大輪",
+        "image_m": "Ava/M/紫苑の大輪.jpg",
+        "image_f": "Ava/F/紫苑の大輪.jpg"
+    },
+    {
+        "name_m": "少将の制服",
+        "name_f": "少将の制服",
+        "image_m": "Ava/M/少将の制服.jpg",
+        "image_f": "Ava/F/少将の制服.jpg"
+    },
+    {
+        "name_m": "ナイトロード",
+        "name_f": "ナイトロード",
+        "image_m": "Ava/M/ナイトロード.jpg",
+        "image_f": "Ava/F/ナイトロード.jpg"
+    },
+    {
+        "name_m": "ワイルドロック",
+        "name_f": "ふわふわニット",
+        "image_m": "Ava/M/ワイルドロック.jpg",
+        "image_f": "Ava/F/ふわふわニット.jpg"
+    },
+    {
+        "name_m": "学園ブレザー",
+        "name_f": "学園アイドル",
+        "image_m": "Ava/M/学園ブレザー.jpg",
+        "image_f": "Ava/F/学園アイドル.jpg"
+    },
+    {
+        "name_m": "ナイトアーマー",
+        "name_f": "光翼の鎧",
+        "image_m": "Ava/M/ナイトアーマー.jpg",
+        "image_f": "Ava/F/光翼の鎧.jpg"
+    },
+    {
+        "name_m": "ウェーブパンツ",
+        "name_f": "スノービキニ",
+        "image_m": "Ava/M/ウェーブパンツ.jpg",
+        "image_f": "Ava/F/スノービキニ.jpg"
+    },
+    {
+        "name_m": "忍び装束",
+        "name_f": "忍び装束",
+        "image_m": "Ava/M/忍び装束.jpg",
+        "image_f": "Ava/F/忍び装束.jpg"
+    },
+    {
+        "name_m": "黒衣の暗殺者",
+        "name_f": "黒衣の執行者",
+        "image_m": "Ava/M/黒衣の暗殺者.jpg",
+        "image_f": "Ava/F/黒衣の執行者.jpg"
+    },
+    {
+        "name_m": "グランダーク",
+        "name_f": "ロイヤルスカート",
+        "image_m": "Ava/M/グランダーク.jpg",
+        "image_f": "Ava/F/ロイヤルスカート.jpg"
+    },
+    {
+        "name_m": "黄雲の飛将",
+        "name_f": "花の舞姫",
+        "image_m": "Ava/M/黄雲の飛将.jpg",
+        "image_f": "Ava/F/花の舞姫.jpg"
+    },
+    {
+        "name_m": "エースドリーマー",
+        "name_f": "エースドリーマー",
+        "image_m": "Ava/M/エースドリーマー.jpg",
+        "image_f": "Ava/F/エースドリーマー.jpg"
+    },
+    {
+        "name_m": "秋風スタイル",
+        "name_f": "チェックリボン",
+        "image_m": "Ava/M/秋風スタイル.jpg",
+        "image_f": "Ava/F/チェックリボン.jpg"
+    },
+    {
+        "name_m": "ノーブルコート",
+        "name_f": "フリルドレス",
+        "image_m": "Ava/M/ノーブルコート.jpg",
+        "image_f": "Ava/F/フリルドレス.jpg"
+    },
+    {
+        "name_m": "レイブンダーク",
+        "name_f": "ピンクロリータ",
+        "image_m": "Ava/M/レイブンダーク.jpg",
+        "image_f": "Ava/F/ピンクロリータ.jpg"
+    },
+    {
+        "name_m": "ロンドンコーデ",
+        "name_f": "和風メイド",
+        "image_m": "Ava/M/ロンドンコーデ.jpg",
+        "image_f": "Ava/F/和風メイド.jpg"
+    },
+    {
+        "name_m": "スノウダイヤ",
+        "name_f": "青薔薇の常夜",
+        "image_m": "Ava/M/スノウダイヤ.jpg",
+        "image_f": "Ava/F/青薔薇の常夜.jpg"
+    },
+    {
+        "name_m": "スノウダイヤ",
+        "name_f": "ヴィーナスムーン",
+        "image_m": "Ava/M/スノウダイヤ.jpg",
+        "image_f": "Ava/F/ヴィーナスムーン.jpg"
+    },
+    {
+        "name_m": "レザー風",
+        "name_f": "ピンクメイド",
+        "image_m": "Ava/M/レザー風.jpg",
+        "image_f": "Ava/F/ピンクメイド.jpg"
+    },
+    {
+        "name_m": "神秘な貴族",
+        "name_f": "紫色の幻想",
+        "image_m": "Ava/M/神秘な貴族.jpg",
+        "image_f": "Ava/F/紫色の幻想.jpg"
+    },
+    {
+        "name_m": "空賊の団長服",
+        "name_f": "キャットメイド",
+        "image_m": "Ava/M/空賊の団長服.jpg",
+        "image_f": "Ava/F/キャットメイド.jpg"
+    },
+    {
+        "name_m": "デニムスタイル",
+        "name_f": "ふわモコうさぎ",
+        "image_m": "Ava/M/デニムスタイル.jpg",
+        "image_f": "Ava/F/ふわモコうさぎ.jpg"
+    }
+]
