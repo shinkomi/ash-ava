@@ -92,6 +92,7 @@ function textSerch() {
       visibleRowCount++;
     });
   }
+  serchText = { text: [] };
 }
 
 function resetSerch() {
