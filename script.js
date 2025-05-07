@@ -68,6 +68,7 @@ function textSerch() {
           result2 = avaNameF.search(textarea.value);
           if(result2 !== -1) {
             console.log("Fで一致。");
+            serchText['text'].push(avaNameF)
             matchText = serchText.text.includes(avaNameF)
           } else {
             console.log("不一致。");
