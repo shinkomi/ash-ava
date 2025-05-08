@@ -1,5 +1,29 @@
 [
     {
+        "name_m": "冬夜の着物",
+        "name_f": "月夜の誘惑",
+        "image_m": "Ava/M/冬夜の着物.jpg",
+        "image_f": "Ava/F/月夜の誘惑.jpg"
+    },
+    {
+        "name_m": "浅葱の羽織",
+        "name_f": "浅葱の羽織",
+        "image_m": "Ava/M/浅葱の羽織.jpg",
+        "image_f": "Ava/F/浅葱の羽織.jpg"
+    },
+    {
+        "name_m": "深海ノ約束",
+        "name_f": "深海ノ約束",
+        "image_m": "Ava/M/深海ノ約束.jpg",
+        "image_f": "Ava/F/深海ノ約束.jpg"
+    },
+    {
+        "name_m": "スクールボーイ",
+        "name_f": "スクールガール",
+        "image_m": "Ava/M/スクールボーイ.jpg",
+        "image_f": "Ava/F/スクールガール.jpg"
+    },
+    {
         "name_m": "キャットクリード",
         "name_f": "キャットウィッチ",
         "image_m": "Ava/M/キャットクリード.jpg",
