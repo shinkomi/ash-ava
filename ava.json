@@ -1,5 +1,59 @@
 [
     {
+        "name_m": "キャットクリード",
+        "name_f": "キャットウィッチ",
+        "image_m": "Ava/M/キャットクリード.jpg",
+        "image_f": "Ava/F/キャットウィッチ.jpg"
+    },
+    {
+        "name_m": "ジルフィーガ",
+        "name_f": "シルフローラ",
+        "image_m": "Ava/M/ジルフィーガ.jpg",
+        "image_f": "Ava/F/シルフローラ.jpg"
+    },
+    {
+        "name_m": "トラべリスの旅路",
+        "name_f": "トラべリスの旅路",
+        "image_m": "Ava/M/トラべリスの旅路.jpg",
+        "image_f": "Ava/F/トラべリスの旅路.jpg"
+    },
+    {
+        "name_m": "ベアジャケット",
+        "name_f": "リュンヌドレス",
+        "image_m": "Ava/M/ベアジャケット.jpg",
+        "image_f": "Ava/F/リュンヌドレス.jpg"
+    },
+    {
+        "name_m": "レジスタール",
+        "name_f": "レジスターナ",
+        "image_m": "Ava/M/レジスタール.jpg",
+        "image_f": "Ava/F/レジスターナ.jpg"
+    },
+    {
+        "name_m": "荒野の風",
+        "name_f": "草原の花",
+        "image_m": "Ava/M/荒野の風.jpg",
+        "image_f": "Ava/F/草原の花.jpg"
+    },
+    {
+        "name_m": "硝煙の先導者",
+        "name_f": "黒煙の指揮者",
+        "image_m": "Ava/M/硝煙の先導者.jpg",
+        "image_f": "Ava/F/黒煙の指揮者.jpg"
+    },
+    {
+        "name_m": "白紫の華輪",
+        "name_f": "月下の大輪",
+        "image_m": "Ava/M/白紫の華輪.jpg",
+        "image_f": "Ava/F/月下の大輪.jpg"
+    },
+    {
+        "name_m": "ツバメ柄の浴衣",
+        "name_f": "金魚柄の浴衣",
+        "image_m": "Ava/No Image.jpg",
+        "image_f": "Ava/F/金魚柄の浴衣.jpg"
+    },
+    {
         "name_m": "ヒッキーくん",
         "name_f": "ヒッキーちゃん",
         "image_m": "Ava/M/ヒッキーくん.jpg",
